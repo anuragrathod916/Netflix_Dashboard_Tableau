@@ -1,2 +1,4 @@
 # Tableau_Netflix
-This Tableau dashboard project is developed for educational and portfolio purposes only. The dataset used is publicly available and may not reflect the complete or current Netflix catalog. All visualizations, insights, and interpretations are intended to demonstrate data analysis and visualization skills using Tableau.
+This Tableau dashboard provides a comprehensive visualization of Netflix’s global content catalog, highlighting trends in movies and TV shows across countries, genres, ratings, and release years.
+This project is intended for educational and portfolio purposes only and is not affiliated with Netflix.
+
