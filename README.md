@@ -49,4 +49,10 @@ The dataset contains information such as:
 6. # Objective
 To transform raw Netflix dataset into meaningful business insights using visual analytics and storytelling techniques.
 
+7. # Impact
+This dashboard turns raw Netflix catalog data into clear, actionable insights for content strategy and audience understanding. By visualizing trends across years, genres, ratings, and countries, it helps identify what types of content dominate the platform and where growth is concentrated. The country map highlights regional distribution, while genre and rating analyses reveal audience preferences. Year-wise trends expose how content expansion accelerated after 2015, supporting strategic decisions around production and licensing. Interactive filters enable quick exploration of specific titles and categories, making the dashboard useful for analysts, students, and decision-makers seeking data-driven storytelling and practical visualization techniques in Tableau.
+
+8. # Screenshot
+The dashboard looks like:-https://github.com/Anuragrathod007/Netflix_Dashboard_Tableau/blob/main/Tableau%20Dashboard%20.png
+
 
